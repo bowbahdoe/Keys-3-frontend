@@ -76,7 +76,7 @@
     (prn rotation))
   nil)
 
-;; |Mapping Location Key|, Int, Int, Context -> nil
+;; |Mapping Location Team|, Int, Int, Context -> nil
 ;; renders the pieces that are locked
 (defn- render-locked [locked width height ctx] nil)
 
